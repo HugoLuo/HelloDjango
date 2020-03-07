@@ -26,6 +26,8 @@ urlpatterns = [
     url(r'^index/',views.index),      # this for APP
     url(r'^home/',views.home),        # this for APP
 
+
+
     # add data
     url(r'^addstudent/',views.add_stu),
 

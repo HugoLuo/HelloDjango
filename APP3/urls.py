@@ -8,6 +8,6 @@ urlpatterns = {
     url(r'^getstudents/', views.getstudent),
 
  # admin a comment
-    
+
 
 }

@@ -7,4 +7,7 @@ urlpatterns = {
     url(r'^getgrade/',views.getgrade),
     url(r'^getstudents/', views.getstudent),
 
+ # admin a comment
+    
+
 }
